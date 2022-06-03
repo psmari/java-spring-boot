@@ -1,4 +1,4 @@
 # java-spring-boot
 
-This repository was created in AlgaWorks week, for understanding more about Spring Boot.
+This repository was created for understanding more about Spring Boot.
 
